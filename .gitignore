@@ -1,3 +1,9 @@
+# build folder
+/out
+
+# ide forder
+/.idea
+
 # Compiled class file
 *.class
 
